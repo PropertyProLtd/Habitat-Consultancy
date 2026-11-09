@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Johnson;Jo;;;
+FN:Jo Johnson
+ORG:Habitat Consultancy
+TITLE:Director
+TEL;TYPE=CELL,VOICE:+64 21 226 1631
+EMAIL;TYPE=INTERNET,WORK:jo@habitatconsultancy.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/joanne-johnson-89238453/
+ADR;TYPE=WORK:;;;Auckland;;;New Zealand
+NOTE:Property. Finance. Development. Leadership.
+END:VCARD
